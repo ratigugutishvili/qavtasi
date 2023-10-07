@@ -10,7 +10,7 @@ export default function Header(){
                 <a href="x">ბლოგი</a>
                 <a href="x">გამოხმაურება</a>
                 <a href="x">ჩვენს შესახებ</a>
-                <a href="x">კონტაქტი</a>
+                <a href="x">კონტაქტი3იიიი</a>
             </div>
         </header>
     )
